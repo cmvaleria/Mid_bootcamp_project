@@ -7,7 +7,7 @@ Questions:
 What ?
 
 What discrtict of Berlin is most dangerous?
-What type of crimes are the most common
+What type of crimes are the most common ?
 Why? (Bonus)
 
 How crimes correlate with other variables, like:
